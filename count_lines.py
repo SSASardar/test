@@ -1,6 +1,7 @@
 """
 Aim: this script counts the number of lines in standard input
 Input: strings for the ... idk I didnt pay attention
+Output: the number of lines. but lets see what this experiment brings us.
 """
 
 import sys
