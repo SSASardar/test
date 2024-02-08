@@ -1,3 +1,8 @@
+"""
+Aim: this script counts the number of lines in standard input
+Input: strings for the ... idk I didnt pay attention
+"""
+
 import sys
 
 count = 0
